@@ -43,7 +43,7 @@ that's it!
 | 2022-01-19 | **Beatriz Urda** | Jon Sánchez Valle | Victoria Isabel Ruiz Serra |   |
 | 2022-02-02 | **Paula López** | Francois Serra | Carlos García Prieto |   |
 
-*fill free to edit and add (and reserve) the topic of your talk*
+*Note: feel free to edit and add (and reserve) the topic of your talk*
 
 ## Bioinformatics tools and methods
 
