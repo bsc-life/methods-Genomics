@@ -17,7 +17,7 @@ that's it!
 | 2021-01-20 | **Francois Serra** |  |  |  Hi-C - [TADbit](https://github.com/3DGenomes/MethodsMolBiol)  |
 | 2021-02-03 | **Beatriz Urda** | Alba Lepore | Kathleen Imbach |  [RNA-seq](Topics/NGS/RNA-seq/SGM_Genomics_RNAseq.pdf)  |
 | 2021-02-17 | **Jon Sánchez Valle** | Mónica Cabrera | Núria Olvera |  GSEA  | 
-| 2021-03-03 | **Hira** | Jon Sánchez Valle | Laureano Tomás |   |
+| 2021-03-03 | **Hira Shahid** | Jon Sánchez Valle | Laureano Tomás |   |
 | 2021-03-17 | **Carlos Madariaga** | Alba Lepore | Paula López |   |
 | 2021-03-31 | **Kathleen Imbach** | Jon Sánchez Valle | Victoria Isabel Ruiz Serra |   |
 | 2021-04-14 | **Laureano Tomás** | Francois Serra | Hira |   |
