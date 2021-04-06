@@ -19,13 +19,13 @@ that's it!
 | 2021-02-17 | **Jon Sánchez Valle** | Mónica Cabrera | Núria Olvera |  GSEA  | 
 | 2021-03-03 | **Carlos Madariaga** | François Serra | Paula López |  [Chromatin loop callers](Topics/Hi-C/Loop_Callers_Final.pdf)  |
 | 2021-03-17 | **Hira Shahid** | Jon Sánchez Valle | Laureano Tomás |  GWAS  |
-| 2021-03-31 | **Kathleen Imbach** | Jon Sánchez Valle | Victoria Isabel Ruiz Serra |   |
-| 2021-04-14 | **Laureano Tomás** | Francois Serra | Hira |   |
-| 2021-04-28 | **María Morales Martínez** | Francois Serra | Victoria Isabel Ruiz Serra |   | 
-| 2021-05-12 | **Mónica Cabrera** | Alba Lepore | Núria Olvera |   |
-| 2021-05-26 | **Núria Olvera** | Jon Sánchez Valle | Beatriz Urda |   |
-| 2021-06-09 | **Paula López** | Jon Sánchez Valle | Mónica Cabrera |   |
-| 2021-06-23 | **Victoria Isabel Ruiz Serra** | Alba Lepore | Kathleen Imbach |   |
+| 2021-04-14 | **Kathleen Imbach** | Jon Sánchez Valle | Victoria Isabel Ruiz Serra |  ATAC-seq  |
+| 2021-04-28 | **Laureano Tomás** | Francois Serra | Hira |   |
+| 2021-05-12 | **María Morales Martínez** | Francois Serra | Victoria Isabel Ruiz Serra |   | 
+| 2021-05-26 | **Mónica Cabrera** | Alba Lepore | Núria Olvera |   |
+| 2021-06-09 | **Núria Olvera** | Jon Sánchez Valle | Beatriz Urda |   |
+| 2021-06-23 | **Paula López** | Jon Sánchez Valle | Mónica Cabrera |   |
+| 2021-07-07 | **Victoria Isabel Ruiz Serra** | Alba Lepore | Kathleen Imbach |   |
 
 
 *Note: feel free to edit and add (and reserve) the topic of your talk*
