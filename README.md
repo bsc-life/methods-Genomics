@@ -18,7 +18,7 @@ that's it!
  | 2021-02-03 | **Beatriz Urda** | Alba Lepore | Kathleen Imbach |  [RNA-seq](Topics/RNA-seq/SGM_Genomics_RNAseq.pdf)  |
 | 2021-02-17 | **Jon Sánchez Valle** | Mónica Cabrera | Núria Olvera |  GSEA  | 
 | 2021-03-03 | **Carlos Madariaga** | François Serra | Paula López |  [Chromatin loop callers](Topics/Hi-C/Loop_Callers_Final.pdf)  |
-| 2021-03-17 | **Hira Shahid** | Jon Sánchez Valle | Laureano Tomás |  GWAS  |
+| 2021-03-17 | **Hira Shahid** | Jon Sánchez Valle | Laureano Tomás |  [GWAS](Topics/GWAS/GWAS.Hira.pdf)  |
 | 2021-04-14 | **Kathleen Imbach** | Jon Sánchez Valle | Victoria Isabel Ruiz Serra |  ATAC-seq  |
 | 2021-04-28 | **Laureano Tomás** | Francois Serra | Hira |   |
 | 2021-05-12 | **María Morales Martínez** | Francois Serra | Victoria Isabel Ruiz Serra |   | 
