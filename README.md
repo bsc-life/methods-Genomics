@@ -16,7 +16,7 @@ that's it!
 |:-----------|:---------------------------|:-----------------------|:---------------------------|---|
 | 2021-01-20 | **Francois Serra** |  |  |  Hi-C - [TADbit](https://github.com/3DGenomes/MethodsMolBiol)  |
  | 2021-02-03 | **Beatriz Urda** | Alba Lepore | Kathleen Imbach |  [RNA-seq](Topics/RNA-seq/SGM_Genomics_RNAseq.pdf)  |
-| 2021-02-17 | **Jon Sánchez Valle** | Mónica Cabrera | Núria Olvera |  GSEA  | 
+| 2021-02-17 | **Jon Sánchez Valle** | Mónica Cabrera | Núria Olvera |  [GSEA](Topics/Genomic_toolkits/GSEA/presentation/GSEA_presentation.pdf)  | 
 | 2021-03-03 | **Carlos Madariaga** | François Serra | Paula López |  [Chromatin loop callers](Topics/Hi-C/Loop_Callers_Final.pdf)  |
 | 2021-03-17 | **Hira Shahid** | Jon Sánchez Valle | Laureano Tomás |  [GWAS](Topics/GWAS/GWAS.Hira.pdf)  |
 | 2021-04-14 | **Kathleen Imbach** | Jon Sánchez Valle | Victoria Isabel Ruiz Serra |  ATAC-seq  |
