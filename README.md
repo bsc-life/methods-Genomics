@@ -20,8 +20,8 @@ that's it!
 | 2021-03-03 | **Carlos Madariaga** | François Serra | Paula López |  [Chromatin loop callers](Topics/Hi-C/Loop_Callers_Final.pdf)  |
 | 2021-03-17 | **Hira Shahid** | Jon Sánchez Valle | Laureano Tomás |  [GWAS](Topics/GWAS/GWAS.Hira.pdf)  |
 | 2021-04-14 | **Kathleen Imbach** | Jon Sánchez Valle | Victoria Isabel Ruiz Serra |  [ATAC-seq](Topics/ATAC-seq/ATAC-Sequencing.pdf)  |
-| 2021-04-28 | **Laureano Tomás** | Beatriz Urda | Hira Shahid | CUT & RUN  |
-| 2021-05-12 | **María Morales Martínez** | Núria Olvera | Victoria Isabel Ruiz Serra |   | 
+| 2021-04-28 | **Laureano Tomás** | Beatriz Urda | Hira Shahid | [CUT & RUN](Topics/Cut%20%26%20Run/20210428-subGM3%20CutnRun.pdf)  |
+| 2021-05-12 | **María Morales Martínez** | Núria Olvera | Victoria Isabel Ruiz Serra |  DamID and LADs  | 
 | 2021-05-26 | **Mónica Cabrera** | François Serra | Paula López |   |
 | 2021-06-09 | **Núria Olvera** | Jon Sánchez Valle | Beatriz Urda |   |
 | 2021-06-23 | **Paula López** | Laureano Tomás | Mónica Cabrera |   |
