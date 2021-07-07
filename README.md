@@ -25,7 +25,7 @@ that's it!
 | 2021-05-26 | **Mónica Cabrera** | François Serra | Paula López |  [(Promoter) Capture Hi-C](Topics/Capture-C/subGM_PCHiC_MonicaCabrera.pdf)  |
 | 2021-06-09 | **Núria Olvera** | Jon Sánchez Valle | Beatriz Urda |  [DNA Methylation (example: Aging clock)](Topics/DNA_methylation/DNA_methylation_array_data_and_Ageing_Clock.pdf)  |
 | 2021-06-23 | **Paula López** | Laureano Tomás | Mónica Cabrera |  **CANCELLED**  |
-| 2021-07-07 | **Victoria Isabel Ruiz Serra** | Hira Shahid | Kathleen Imbach |   |
+| 2021-07-07 | **Victoria Isabel Ruiz Serra** | Hira Shahid | Kathleen Imbach |  Mapping on protein structure (example with COVID)  |
 
 
 *Note: feel free to edit and add (and reserve) the topic of your talk*
