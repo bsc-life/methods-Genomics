@@ -24,7 +24,6 @@ that's it!
 | 2021-05-12 | **María Morales Martínez** | Núria Olvera | Victoria Isabel Ruiz Serra |  [DamID and LADs](Topics/DamID_LADs/DamID.pdf)  | 
 | 2021-05-26 | **Mónica Cabrera** | François Serra | Paula López |  [(Promoter) Capture Hi-C](Topics/Capture-C/subGM_PCHiC_MonicaCabrera.pdf)  |
 | 2021-06-09 | **Núria Olvera** | Jon Sánchez Valle | Beatriz Urda |  [DNA Methylation (example: Aging clock)](Topics/DNA_methylation/DNA_methylation_array_data_and_Ageing_Clock.pdf)  |
-| 2021-06-23 | **Paula López** | Laureano Tomás | Mónica Cabrera |  **CANCELLED**  |
 | 2021-07-07 | **Victoria Isabel Ruiz Serra** | Hira Shahid | Kathleen Imbach |  [PDBmapper (example with COVID)](Topics/PDBmapper/SG3-PDBmapper-6_07_2021.pptx)  |
 
 
